@@ -1,0 +1,7 @@
+com\plagiarism\PlagiarismApplication.class
+com\plagiarism\util\AdaptiveJaccardSimilarity.class
+com\plagiarism\util\ContentDensityChecker.class
+com\plagiarism\util\SemanticHashing.class
+com\plagiarism\util\SlidingWindowSimilarity.class
+com\plagiarism\controller\PlagiarismController.class
+com\plagiarism\service\PlagiarismService.class
